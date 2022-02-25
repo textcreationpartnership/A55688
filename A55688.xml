@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Present alteration in religion in France discours'd of in two letters : the one from a person of quality to an abbot, the other the abbot's answer thereunto : which may serve as an appendix to the Mistery of Jesuitisme.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55688</idno>
+            <idno type="STC">Wing P3233</idno>
+            <idno type="STC">ESTC R25033</idno>
+            <idno type="EEBO-CITATION">08723541</idno>
+            <idno type="OCLC">ocm 08723541</idno>
+            <idno type="VID">41672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41672)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1267:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Present alteration in religion in France discours'd of in two letters : the one from a person of quality to an abbot, the other the abbot's answer thereunto : which may serve as an appendix to the Mistery of Jesuitisme.</title>
+                  <author>Pascal, Blaise, 1623-1662. Mystery of Jesuitisme.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41672:1"/>
+            <pb facs="tcp:41672:1"/>
+            <p>The Preſent Alteration in Religion IN FRANCE.</p>
+            <p>DISCOURS'D OF In TWO LETTERS, THE ONE <hi>From a Peſon of Quality to an Abbot.</hi>
+            </p>
+            <p>THE OTHER <hi>The Abbot's Anſwer thereunto.</hi>
+            </p>
+            <p>Which may ſerve as an APPENDIX to the <hi>MISTERY of JES<g ref="char:V">Ʋ</g>ITISME.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Janeway.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:41672:2"/>
+            <pb n="1" facs="tcp:41672:2"/>
+            <head>The Preſent Alteration in Religion IN FRANCE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have not hitherto appear'd ſcrupulous to you, yet I fear I ſhall now become ſo; and if you wonder at that, you will much more at my chuſing you my Caſuiſt; for it is to you that I will declare a Doubt of Conſcience, not knowing whom elſe to conſult. If you conceive your ſelt unable to reſolve it, I confide ſo much in your Prudence and Friendſhip, that you will give your ſelf the trouble to procure me an Illu<g ref="char:EOLhyphen"/>mination from ſome of your Learned Friends, who will inſtruct me what I am to think of all that we ſee, which I underſtand not. You know that I have always ſought after Men of worth to con<g ref="char:EOLhyphen"/>duct me; and by reaſon thereof I fix'd my ſelf to the Direction of <hi>Meſſiers de St. Sulpice,</hi> whoſe
+<pb n="2" facs="tcp:41672:3"/>Piety all the World knows. They have taken great care to conduct me into the Simplicity of the Faith, without embroiling me in the Diſputes of the Times; and above all, to continue firm by a perfect Submiſſion to the <hi>Pope,</hi> without examining his Decrees, or making diſtinction or exception in what he commands (ſeeing the liber<g ref="char:EOLhyphen"/>ty that ſome take in this matter) being the true Mark whereby to know <hi>Hereticks,</hi> and all ſuch as have an ill Opinion in Matters of Faith. Such perſons were then criminally proceeded againſt, not excepting Biſhops themſelves, that dared to expound the <hi>Popes</hi> Bulls; and I was told we are oblig'd to believe that the <hi>Pope</hi> was Infallible in Matters of Fact as well as Matters of Faith, though we daily ſaw Writings which prov'd the contrary. I read ſome of them out of curioſity, which had like to have done me harm; for, they were ſo well clear'd, that they fully perſwaded my Reaſon. But I fought againſt this falſe Light, which would have captivated my Underſtanding, by anſwering my ſelf with that which my Con<g ref="char:EOLhyphen"/>feſſor oft told me, That in Matters, of Faith we muſt not ſeek for Evidence, and that we ought to contain our ſelves within this Holy Igno<g ref="char:EOLhyphen"/>rance, which inſtructs our Knowledg to ſubmit, and not to diſpute upon the Word of Jeſus Chriſt; whoo tells St. <hi>Peter</hi> and his Succeſſors, <hi>This Spi<g ref="char:EOLhyphen"/>rit will teach you all things.</hi> There I acqui<g ref="char:EOLhyphen"/>eſced with much ſatisfaction until the laſt year: But I muſt tell you truly, I know not where I
+<pb n="3" facs="tcp:41672:3"/>now am ſince that time. There are daily Edicts of Parliament, publiſh'd againſt the <hi>Popes</hi> Briefs, and there is publickly maintain'd in theſe Edicts Maximes and Opinions altogether like unto thoſe which were heretofore attributed to the <hi>Janſe<g ref="char:EOLhyphen"/>niſts,</hi> and for which they were treated as <hi>Here<g ref="char:EOLhyphen"/>ticks</hi> and <hi>Rebels</hi> to the Church. I have ask'd my Confeſſor, What the meaning was of this change? He gave me only for Anſwer, That it was <hi>Intereſt of State</hi> which oblig'd us to carry our ſelves dif<g ref="char:EOLhyphen"/>ferently according to the Times, and that this did not concern me at all. This quieted my Conſcience never a whit, but on the contrary I find it much: perplex'd; for I ought ſurely to know what I muſt hold, and Religion is not to change with the Times. I do indifferent well ap<g ref="char:EOLhyphen"/>prehend that theſe Humane Intereſts do oft times change the, Conduct of Princes; but the Prelates of the Church in theſe Occurrences uſe to ſpeak their Sentiments. Here quite contrary, the Bi<g ref="char:EOLhyphen"/>ſhops of <hi>France</hi> ſupport the Edicts; no body con<g ref="char:EOLhyphen"/>tradicts them neither in the Chairs, nor Schools, nor even in the Tribunal, of Confeſſion, where Men might under the Seal of Secreſie ſpeak their Sentiments with freedom; and where the Confeſ<g ref="char:EOLhyphen"/>ſor would be more oblig'd not to ſuffer that to be a Doubt in the Soul, which formerly they eſta<g ref="char:EOLhyphen"/>bliſh'd as the Foundation of Faith; which was the Obligation to believe, and in all things to obey the Vicar of Jeſus Chriſt, who ſupplies his place upon Earth. What then ſhall we think of all
+<pb n="4" facs="tcp:41672:4"/>this? and you your ſelf, Sir, what do you think of it? Thoſe that ſaid heretofore that which is now publickly ſaid, were counted Hereticks; and it was ſo thorowly believed, that we believe it ſtill. In the mean time the King, the Parliament, and all the Biſhops, ſay the ſame things now. Are they changing of Religion? Are they going over to them? But there is no likelihood of that, for they are as much perſecuted as ever. Who can then unfold ſo incomprehenſible a matter? I con<g ref="char:EOLhyphen"/>jure you therefore to ſeek out ſome Light herein, and to let me ſhare in it; for in, good earneſt in a matter concerning Salvation, I would not remain in any doubt whether I hold the Right or the Wrong. And notwithſtanding all my Confeſſors prohibiti<g ref="char:EOLhyphen"/>ons, I reſolve to ſeek after the Light, and ſhall endeavour to diſcern where the Truth lies; ſeeing there is no ſfety but in following it. You will lay the greateſt obligation in the World on me Sir, if you will pleaſe to contribute thereunto, and I ſhall be a thouſand times more all my life long</p>
+            <closer>
+               <signed>Your moſt humble and Obedient Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:41672:4"/>
+            <head>
+               <hi>THE</hi> Anſwer to the Precedent Letter.</head>
+            <p>I Have, Madam, obſerv'd ſo much good Senſe, and excellent Ingenuity in the Letter which you confided to me, that the Perſon that wrote it, is her ſelf able enough to decide the Caſe of Con<g ref="char:EOLhyphen"/>ſcience which ſhe propoſed, though it includes things ſo contradictory, and which can ſo hardly be reconciled. It's true, That the <hi>Pope</hi>'s Infallibility was maintain'd ſome years ſince as an Article of Faith, both in Matters of Fact and in Matters of Right; and that all thoſe were treated as Hereticks that were of another Mind, the <hi>Biſhops</hi> not except<g ref="char:EOLhyphen"/>ed, who were as much diſtinguiſh'd by their Piety, as by their Doctrine. But now all is chang'd. The <hi>Pope</hi>'s <hi>Bulls,</hi> heretofore ſo ſacred and ſo inviola<g ref="char:EOLhyphen"/>ble, are highly condemned by Arreſt of Parlia<g ref="char:EOLhyphen"/>ment, and thoſe Decrees are ſupported by Au<g ref="char:EOLhyphen"/>thority of the Clergy of <hi>France.</hi> The Vicar of Je<g ref="char:EOLhyphen"/>ſus Chriſt is no longer Infallible, and many other Maximes are Eſtabliſhing, which were formerly charg'd only upon the <hi>Janſeniſts.</hi> This is it, Ma<g ref="char:EOLhyphen"/>dam, which troubles your Illuſtrious Friend, ſhe would willingly have ſome body ſo well inlight<g ref="char:EOLhyphen"/>ned as to preſcribe her the manner how ſhe ought to demean her ſelf in ſo ſtrange a confuſion. She
+<pb n="6" facs="tcp:41672:5"/>hath conſulted her Confeſſor, and is not yet ſa<g ref="char:EOLhyphen"/>tisfied. I aſſure you, Madam, that I pity her, and wiſh nothing more than to draw her out of thoſe ſnares wherein ſhe is held. But as I cannot do it by my own Light, I conclude I ſhall do it poſſibly by that of others, and it will be hard if I find not in <hi>Paris</hi> ſome able man to reſolve this difficulty, which gives her ſo much diſturbance. As I was conſidering whither to repair, it came into my thoughts to go to the <hi>Carmelites,</hi> and ask for Father <hi>Caeſar.</hi> You know, Madam, the great reputation he has. The great <hi>Caeſar,</hi> who vanquiſh'd the <hi>Gauls,</hi> brought not more under his Empire, than this man hath drawn perſons of Quality under his Di<g ref="char:EOLhyphen"/>rection. It is true, nevertheleſs, that I am not ſatis<g ref="char:EOLhyphen"/>fied: He anſwers me nothing elſe but that we muſt keep to the Body of the Tree. I underſtand you Father, ſaid I, the Body of the Tree is the <hi>Pope;</hi> why then doth the <hi>Parliament</hi> and <hi>Clergy</hi> ſeperate from him? Why then do they queſtion his Infal<g ref="char:EOLhyphen"/>libility? Can this be done without Hereſy? I en<g ref="char:EOLhyphen"/>ter not, ſaid he, into theſe Diſputes, it belongs not to me to judg of thoſe who are ſet to judg others. But I will ever maintain with the peril or my life, that we muſt keep to the Body of the Tree. 'Tis well done, ſaid I, it appears to me that you are well fixt to it, and that all the Powers on Earth cannot make you waver. When I ſaw he would not ex<g ref="char:EOLhyphen"/>plain himſelf farther, I took my leave, and in re<g ref="char:EOLhyphen"/>turning I bethought my ſelf of going to the <hi>(Je<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uits) Colledg of Clermont,</hi> where I was certain
+<pb n="7" facs="tcp:41672:5"/>of finding men of eaſy acceſs. It is the place where the ableſt Caſuiſts are bred, and where men are refined and purified daily more and more. I ask'd for him who taught Caſes of Conſcience, but he was gone forth; I was then advertiz'd of another Father, who came to me with a Gravity haugh<g ref="char:EOLhyphen"/>ty enough, yet mix'd with ſome ſweetneſs. I went towards him at the ſame time with a ſub<g ref="char:EOLhyphen"/>miſſive reſpect. (For at this day all Eccleſiaſticks of what quality ſoever, Abbots, Biſhops, and Arch-Biſhops, do creep to theſe Gentlemen, elſe they expoſe themſelves to their indignation, and paſs for <hi>Janſeniſts</hi>) ſo after I had made my ho<g ref="char:EOLhyphen"/>mage to the Reverend Father, I let him under<g ref="char:EOLhyphen"/>ſtand, whereby to be the more favourably heard, that I came on behalf of a Lady of Principal Quality, whoſe Conſcience is troubled about all theſe Affairs that paſs at this time in the Church. And to the end he might be better inform'd, and anſwer more accurately to every particular<g ref="char:punc">▪</g> I ſhew'd him the Letter you had ſent me, He read it with good attention, and after he had com<g ref="char:EOLhyphen"/>mended the facile and natural manner wherewith it is written, he told me (with great oſtentati<g ref="char:EOLhyphen"/>on, as venting a Profound Doctrine; and with that great diſdain which it inſpires towards the ignorant) that he did not ſee in the leaſt any ſhadow of difficulty in the thing, and that it was drowning ones ſelf in a drop of water. I told him however that it is not this Lady alone that drowns her ſelf, Father <hi>Caeſar</hi> that great Guid
+<pb n="8" facs="tcp:41672:6"/>and Confeſſor (who doubtleſs is known to you) drowns himſelf too, though he thinks he hath ſav'd himſelf very happily, by telling me a hun<g ref="char:EOLhyphen"/>dred times, that we muſt keep to the Body of the Tree. This Father did not much wonder at the Name of Father <hi>Caeſar,</hi> He is a good Man, ſaid he, ſmiling to himſelf, and ſhaking his Head. Perceiving this Father ſpeak with ſo much Zeal, and ſo good an Opinion of himſelf, I expected that he would ſpeak nothing but Oracles. How happy am I (ſaid I, Sir) to have met with you! for I even imagine you will let me ſee the Heavens open: Pray therefore do me the favour to tell me how you reconcile all that we ſee now adays, to that which paſs'd formerly? O very eaſily, Sir, ſaid he: You know, heretofore that it was, of import<g ref="char:EOLhyphen"/>ance for the honour of our Society (which one may well ſay are the ſureſt Pillars of the Church) to eſtabliſh the Infallibility of the Pope as an Ar<g ref="char:EOLhyphen"/>ticle of Faith, that ſo we might get him on our ſide, and oblige him to uſe all his Spiritual Pow<g ref="char:EOLhyphen"/>er for us againſt the <hi>Janſeniſts,</hi> who then made a cruel War upon us, and you ſee, God be prai<g ref="char:EOLhyphen"/>ſed, how we have ſucceeded. They have done their utmoſt Efforts to ruin our Doctrine, and rendred our Morals ridiculous and extravagant; and though in appearance they would needs bear us down with the Authority of the Fathers, Coun<g ref="char:EOLhyphen"/>cils, and the Scriptures, we have nevertheleſs managed things ſo well, that they themſelves have been declared Hereticks. In fine, that dan<g ref="char:EOLhyphen"/>gerous
+<pb n="9" facs="tcp:41672:6"/>Cabal hath been diſſipated (ſaid he) and are become Wanderers and Vagabonds, and can very hardly ſind any place of ſafety for themſelves upon Earth. Now, as at preſent there is nothing to be feared from that ſide, and that other Af<g ref="char:EOLhyphen"/>fairs have occurred wherein we judg'd it our In<g ref="char:EOLhyphen"/>tereſt not to have ſo great reſpect for the <hi>Pope,</hi> and to have much for the King, to whom we are infinitely oblig'd: We have believed that to maintain the Rights of his Crown, and to pre<g ref="char:EOLhyphen"/>ſerve our ſelves continually in his Grace and Fa<g ref="char:EOLhyphen"/>vour; we might follow the Opinion of many Doctors, who believe that the Pope may be de<g ref="char:EOLhyphen"/>ceived: ſo that you muſt not wonder if in divers times we believe different things. But Father, ſaid I, does Religion then change with the Times? You deceive your ſelf, ſaid he, it changeth not for all that, it remains ever the ſame, and is unchangeable; though according to divers occur<g ref="char:EOLhyphen"/>rences we are ſometimes of one Opinion, and ſometimes of another. There lies the Miracle of the Doctrine of <hi>Probability,</hi> which far from ſhaking the Tenets of Religion, does confirm it; and no body knows better the value and price of it than our ſelves, by the moſt frequent uſe we make of it. For by this means it is that we have ſpread Chriſtianity almoſt thorow the whole World, and eſtabliſh'd it without any great con<g ref="char:EOLhyphen"/>tradiction in the midſt of the moſt ſavage and barbarous. People, by ſuddenly ſuppreſſing what ever might quaſh or give any averſion or diſtaſte.
+<pb n="10" facs="tcp:41672:7"/>It is well known what we have done for the Glory of Jeſus Chriſt in <hi>China:</hi> his Death and Sufferings Preach'd there, caus'd horrour and expoſed us to all ſorts of outrages and violence. We believ'd there<g ref="char:EOLhyphen"/>fore that <hi>Probably</hi> we might not tell them a word of it, and that it would ſuffice us to preach up his Miracles, his triumphant Aſcenſion into Hea<g ref="char:EOLhyphen"/>ven, and all that, that might give them a pleaſing and advantagious Idea. You cannot imagine, Sir, the progreſs that we have made, and do daily make, by means of this moſt Divine Doctrine of <hi>Probability,</hi> and that God hath doubtleſs inſpir'd it into us, that we might labour more <hi>Profitably,</hi> and with leſs danger to our perſons, in the Con<g ref="char:EOLhyphen"/>verſion of ſo great a number of Infidels. Whilſt the Father was thus talking, I admired to him the conduct of thoſe new Apoſtles, and compar'd them to thoſe of the firſt Chriſtians, who preach'd not the Goſpel with ſo much precaution, and who had not for their guidance in their <hi>Miſſion,</hi> this <hi>Pro<g ref="char:EOLhyphen"/>bability,</hi> which would have ſav'd them much Blood: But it pleaſed not God to Inſpire them with it. This Grace was reſerv'd for theſe laſt Veſſels of Election, who were to carry his Name more remote in the World, and render their labours more illuſtrious. But as this Father ſpake with much zeal and ſincerity, ſo I declar'd my ſelf much ſatisfied. I am even raviſh'd (ſaid I) Sir, with all that you have told me, and if I under<g ref="char:EOLhyphen"/>ſtand it aright, it ſeems to me that the Popes In<g ref="char:EOLhyphen"/>fallibillity is but a <hi>Probable</hi> Opinion, upon which
+<pb n="11" facs="tcp:41672:7"/>one may chuſe whether to be either for or againſt it, as it pleaſeth one beſt. You are in the right, ſaid he. Then give me leave, Reverend Father, ſaid I, to ask you a little Queſtion upon it, Can one impute a probable Opinion to any as a Here<g ref="char:EOLhyphen"/>ſie? Yea doubtleſs, ſaid he, if the Opinion be probably Heretical. Then reply'd I, Father, It is an Opinion with thoſe of your Society, That it is probably Heretical not to believe the <hi>Pope</hi>'s Infallibility, for that is one of the greateſt Here<g ref="char:EOLhyphen"/>ſies which you charge the <hi>Janſeniſts</hi> with; and by conſequence you muſt now look upon, and ſhun all as Heretical, who have the ſame Sen<g ref="char:EOLhyphen"/>timent: that is to ſay, the Gentlemen of the Parliament, and all the Biſhops of <hi>France.</hi> You are too quick, ſaid he, you have already for<g ref="char:EOLhyphen"/>gotten that which we have newly eſtabliſh'd as a thing indiſputable; and which you learn in our ableſt Caſuiſts, That in reſpect of a <hi>Probable Opinion,</hi> one may chuſe <hi>Pro</hi> or <hi>Con,</hi> which ſide you like beſt. Argue therefore a little more equal<g ref="char:EOLhyphen"/>ly upon that Principle (ſaid he) and draw your Conſequences thence better. For if it be proba<g ref="char:EOLhyphen"/>ble, That it is a Hereſie not to believe the Infal<g ref="char:EOLhyphen"/>libility, it is alſo <hi>Probable</hi> that it is no Hereſie. Men have their choice to ſay either Yea, or Nay, as it is moſt advantageous to them. So then, Fa<g ref="char:EOLhyphen"/>ther (ſaid I) though the Biſhops, the Parliament, and the <hi>Janſeniſts</hi> do not differ upon the Subject of Infallibility; and though they all believe the ſame thing, it being of the higheſt Importance to
+<pb n="12" facs="tcp:41672:8"/>you to lead and manage the Biſhops and Parlia<g ref="char:EOLhyphen"/>ment, you declare, them to be moſt Orthodox. But for the <hi>Janſeniſts,</hi> who are ſo contrary to you, you will ever declare them Hereticks. Yes, it is ſo, ſaid he, which we can do with a good Conſcience, by directing our <hi>Intentions</hi> as we ought; and therein mind nothing but the glory of God, and that of our Society. But Father (ſaid I) what would you do, if the Clergy and Parliament ſhould contend with, or differ from you; would you ſpare them any more than the <hi>Janſe<g ref="char:EOLhyphen"/>niſts?</hi> We would beware (ſaid he) of engaging two ſuch powerful Bodies againſt us; we would take ſuch meaſures as might not hurt us. Pru<g ref="char:EOLhyphen"/>dence would ſuggeſt to us a Thouſand Expedients to conjure down that Tempeſt. It were then con<g ref="char:EOLhyphen"/>venient to diſſemble for ſome time, and as occaſi<g ref="char:EOLhyphen"/>on ſhould offer to fall ſoul upon ſome of them, and render them ſuſpect, to deter others. Are you ignorant of what we have done (continu'd he) to other Prelates, that dared to claſh with us? I could name you a ſufficient number, whoſe Do<g ref="char:EOLhyphen"/>ctrine and Conduct we have cry'd down. I re<g ref="char:EOLhyphen"/>member it, Father (ſaid I) we cannot taxe you with being wanting in that. Death it ſelf extin<g ref="char:EOLhyphen"/>guiſheth not your Reſentments, ſo juſt are they. And to ſpeak only of the late Biſhop de <hi>Pamiez,</hi> all the World knows you reſerve thoſe <hi>Reſentments</hi> ſtill againſt him; and that not being able to exer<g ref="char:EOLhyphen"/>cize your Zeal againſt his perſon<g ref="char:punc">▪</g> you employ it to hinder (as one may ſay) his repoſe in his Grave;
+<pb n="13" facs="tcp:41672:8"/>by rendring his Memory hateful. You, the Fa<g ref="char:EOLhyphen"/>thers of <hi>Pamiez,</hi> have particularly ſignaliz'd your ſelves herein. For the People running to the Sepulchre of this Prelate, and giving him the honours as to a Saint, you labour'd with might and main to perſwade them that he was damn'd, becauſe he had Excommunicated Three of your Society. 'Tis in effect a Crime never to be remitted, neither in this World, nor in the World to come. Mock not (ſaid he) every Prelate that Excommunicates us, is himſelf Excommunica<g ref="char:EOLhyphen"/>ted <hi>(ipſo facto;)</hi> and if he repairs not this injury before he dies, and asks us not Pardon for his Ti<g ref="char:EOLhyphen"/>merity, it is impoſſible that he an be ſaved. But not to ſtray too far from our Subject, be per<g ref="char:EOLhyphen"/>ſwaded (continu'd he) that there is nothing ſo commodious as our Doctrine of <hi>Probability;</hi> and notwithſtanding all the Endeavours the <hi>Pope</hi> hath uſed againſt it, it ſhall ever continue firm with us. 'Tis in vain to oppoſe it, it is of abſolute neceſſity in the World. What means elſe is there to reconcile ſo many things which ſeem incom<g ref="char:EOLhyphen"/>patible? And how can we ever reſolve the Caſe of Conſcience of your Marchioneſs or Dutcheſs? If after all this there remains any Scruple with her, let her but take the pains to come and ſee me, and I am confident ſhe will be freed of all her Doubts. This Madam, is all the Solution I could draw from this Fa<g ref="char:EOLhyphen"/>ther; if it be not ſatisfactory, I ſee no better
+<pb n="14" facs="tcp:41672:9"/>means than to accept his Offers; he is full out as willing as able; and I am, Madam,</p>
+            <closer>
+               <signed>Your moſt humble and moſt obedient Servant, The Abbot of —</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41672:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
